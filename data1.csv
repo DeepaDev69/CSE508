@@ -1,0 +1,359 @@
+ID|BRAND|MODEL|VARIANT|ENGINE|TRANSMISSION|FUEL|MILEAGE|PRICE|SEATS|URL
+1|Maruti|Swift|LXI|1197|Manual|Petrol|22|5.14|5|https://www.cardekho.com/maruti/swift
+2|Maruti|Swift|LDI|1248|Manual|Diesel|28.4|5.99|5|https://www.cardekho.com/maruti/swift
+3|Maruti|Swift|VXI|1197|Manual|Petrol|22|6.14|5|https://www.cardekho.com/maruti/swift
+4|Maruti|Swift|VDI|1248|Manual|Diesel|28.4|7.03|5|https://www.cardekho.com/maruti/swift
+5|Maruti|Baleno|Sigma|1197|Manual|Petrol|21.4|5.58|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Baleno
+6|Maruti|Baleno|Delta|1197|Manual|Petrol|21.4|6.36|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Baleno
+7|Maruti|Baleno|Sigma Diesel|1246|Manual|Diesel|27.39|6.73|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Baleno
+8|Maruti|Baleno|Alpha Diesel|1248|Manual|Diesel|27.39|8.73|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Baleno
+9|Maruti|Vitara Brezza|LDi|1248|Manual|Diesel|24.3|7.74|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Vitara_Brezza
+10|Maruti|Vitara Brezza|VDi|1248|Manual|Diesel|24.3|8.4|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Vitara_Brezza
+11|Maruti|Vitara Brezza|VDi AMT|1248|Automatic|Diesel|24.3|8.9|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Vitara_Brezza
+12|Maruti|Dzire|LXI 1.2|1197|Manual|Petrol|22|5.82|5|https://www.cardekho.com/maruti/swift-dzire
+13|Maruti|Dzire|LDI|1248|Manual|Diesel|28.4|6.71|5|https://www.cardekho.com/maruti/swift-dzire
+14|Maruti|Dzire|VXI 1.2|1197|Manual|Petrol|22|6.73|5|https://www.cardekho.com/maruti/swift-dzire
+15|Maruti|Dzire|ZXI 1.2|1197|Manual|Petrol|22|7.32|5|https://www.cardekho.com/maruti/swift-dzire
+16|Maruti|Dzire|VDI|1248|Manual|Diesel|28.4|7.62|5|https://www.cardekho.com/maruti/swift-dzire
+17|Maruti|Dzire|AMI ZXI|1197|Automatic|Petrol|22|7.79|5|https://www.cardekho.com/maruti/swift-dzire
+18|Hyundai|Venue|E|1197|Manual|Petrol|17.52|6.5|5|https://www.cardekho.com/hyundai/venue
+19|Hyundai|Venue|S|1197|Manual|Petrol|17.52|7.2|5|https://www.cardekho.com/hyundai/venue
+20|Hyundai|Venue|E Diesel|1396|Manual|Diesel|23.7|7.75|5|https://www.cardekho.com/hyundai/venue
+21|Hyundai|Venue|S Turbo|998|Manual|Petrol|18.27|8.21|5|https://www.cardekho.com/hyundai/venue
+22|Hyundai|Venue|S Diesel|1396|Manual|Diesel|23.7|8.45|5|https://www.cardekho.com/hyundai/venue
+23|Hyundai|Venue|S Turbo DCT|998|Automatic|Petrol|18.15|9.35|5|https://www.cardekho.com/hyundai/venue
+24|Hyundai|Venue|SX Turbo|998|Manual|Petrol|18.27|9.54|5|https://www.cardekho.com/hyundai/venue
+25|Hyundai|Venue|SX Dual Tone Diesel|1396|Manual|Diesel|23.7|9.93|5|https://www.cardekho.com/hyundai/venue
+26|Hyundai|Venue|SX Opt Turbo|998|Manual|Petrol|18.27|10.6|5|https://www.cardekho.com/hyundai/venue
+27|Hyundai|Venue|SX Opt Diesel|1396|Manual|Diesel|23.7|10.84|5|https://www.cardekho.com/hyundai/venue
+28|Hyundai|Venue|SX Plus Turbo DCT|998|Automatic|Petrol|18.15|11.1|5|https://www.cardekho.com/hyundai/venue
+29|Hyundai|Elite i20|Era|1197|Manual|Petrol|18.6|5.52|5|https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20
+30|Hyundai|Elite i20|Magna Plus|1197|Manual|Petrol|18.6|6.27|5|https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20
+31|Hyundai|Elite i20|Era Diesel|1396|Manual|Diesel|22.54|6.9|5|https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20
+32|Hyundai|Elite i20|Sportz Plus|1197|Manual|Petrol|18.6|7.14|5|https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20
+33|Hyundai|Elite i20|Sportz Plus Dual Tone|1197|Manual|Petrol|18.6|7.44|5|https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20
+34|Hyundai|Elite i20|Magna Plus Diesel|1396|Manual|Diesel|22.54|7.63|5|https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20
+35|Hyundai|Elite i20|ASta Option|1197|Manual|Petrol|18.6|8.08|5|https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20
+36|Hyundai|Elite i20|Sportz plus CVT|1197|Automatic|Petrol|17.4|8.24|5|https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20
+37|Hyundai|Elite i20|Sportz Plus Diesel|1396|Manual|Diesel|22.54|8.39|5|https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20
+38|Hyundai|Elite i20|Sportz Plus Dual Ton Diesel|1396|Manual|Diesel|22.54|8.69|5|https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20
+39|Hyundai|Elite i20|Asta Option CVT|1197|Automatic|Petrol|17.4|9.13|5|https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20
+40|Hyundai|Elite i20|Asta Option Diesel|1396|Manual|Diesel|22.54|9.34|5|https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20
+41|Mahindra|Scorpio|S5|2179|Manual|Diesel|16.36|12.2|7|https://www.cardekho.com/mahindra/scorpio
+42|Mahindra|Scorpio|S7 120|2179|Manual|Diesel|16.36|13.3|7|https://www.cardekho.com/mahindra/scorpio
+43|Mahindra|Scorpio|S7 140|2179|Manual|Diesel|16.36|13.6|7|https://www.cardekho.com/mahindra/scorpio
+44|Mahindra|Scorpio|S9|2179|Manual|Diesel|16.36|14.23|7|https://www.cardekho.com/mahindra/scorpio
+45|Mahindra|Scorpio|S11|2179|Manual|Diesel|16.36|15.4|7|https://www.cardekho.com/mahindra/scorpio
+46|Mahindra|Scorpio|S11 4WD|2179|Manual|Diesel|16.36|16.36|7|https://www.cardekho.com/mahindra/scorpio
+47|Mahindra|XUV300|W4|1197|Manual|Petrol|17|8.1|5|https://www.cardekho.com/mahindra/xuv300
+48|Mahindra|XUV300|W4 Diesel|1497|Manual|Diesel|20|8.69|5|https://www.cardekho.com/mahindra/xuv300
+49|Mahindra|XUV300|W6|1197|Manual|Petrol|17|8.95|5|https://www.cardekho.com/mahindra/xuv300
+50|Mahindra|XUV300|W6 Diesel|1497|Manual|Diesel|20|9.5|5|https://www.cardekho.com/mahindra/xuv300
+51|Mahindra|XUV300|W6 AMT Diesel|1497|Automatic|Diesel|20|9.99|5|https://www.cardekho.com/mahindra/xuv300
+52|Mahindra|XUV300|W8|1197|Manual|Petrol|17|10.4|5|https://www.cardekho.com/mahindra/xuv300
+53|Mahindra|XUV300|W8 Diesel|1497|Manual|Diesel|20|10.95|5|https://www.cardekho.com/mahindra/xuv300
+54|Mahindra|XUV300|W8 AMT Diesel|1497|Automatic|Diesel|17|11.5|5|https://www.cardekho.com/mahindra/xuv300
+55|Mahindra|XUV300|W8 Option|1197|Manual|Petrol|17|11.64|5|https://www.cardekho.com/mahindra/xuv300
+56|Mahindra|XUV300|W8 Option Dual Tone|1197|Manual|Petrol|17|11.79|5|https://www.cardekho.com/mahindra/xuv300
+57|Mahindra|XUV300|W8 Option Diesel|1497|Manual|Diesel|20|12.14|5|https://www.cardekho.com/mahindra/xuv300
+58|Mahindra|XUV300|W8 Option Dual Tone Diesel|1497|Manual|Diesel|20|12.29|5|https://www.cardekho.com/mahindra/xuv300
+59|Mahindra|XUV300|W8 AMT Optional Diesel|1497|Automatic|Diesel|20|12.69|5|https://www.cardekho.com/mahindra/xuv300
+60|Mahindra|XUV500|W3|2179|Manual|Diesel|15.1|12.3|7|https://www.cardekho.com/mahindra/xuv500
+61|Mahindra|XUV500|W5|2179|Manual|Diesel|15.1|12.91|7|https://www.cardekho.com/mahindra/xuv500
+62|Mahindra|XUV500|W7|2179|Manual|Diesel|15.1|14.18|7|https://www.cardekho.com/mahindra/xuv500
+63|Mahindra|XUV500|W7 AT|2179|Automatic|Diesel|15.1|15.39|7|https://www.cardekho.com/mahindra/xuv500
+64|Mahindra|XUV500|W9|2179|Manual|Diesel|15.1|15.88|7|https://www.cardekho.com/mahindra/xuv500
+65|Mahindra|XUV500|W9 AT|2179|Automatic|Diesel|15.1|17.1|7|https://www.cardekho.com/mahindra/xuv500
+66|Mahindra|XUV500|W11|2179|Manual|Diesel|15.1|17.16|7|https://www.cardekho.com/mahindra/xuv500
+67|Mahindra|XUV500|W11 Option|2179|Manual|Diesel|15.1|17.41|7|https://www.cardekho.com/mahindra/xuv500
+68|Mahindra|XUV500|W11 AT|2179|Automatic|Diesel|15.1|18.37|7|https://www.cardekho.com/mahindra/xuv500
+69|Mahindra|XUV500|W11 Option AWD|2179|Manual|Diesel|15.1|18.52|7|https://www.cardekho.com/mahindra/xuv500
+70|Mahindra|XUV500|W11 Option AT|2179|Automatic|Diesel|15.1|18.62|7|https://www.cardekho.com/mahindra/xuv500
+71|Mahindra|Marazzo|M2|1497|Manual|Diesel|17.3|10.35|8|https://www.cardekho.com/mahindra/marazzo
+72|Mahindra|Marazzo|M2 8Str|1497|Manual|Diesel|17.3|10.35|8|https://www.cardekho.com/mahindra/marazzo
+73|Mahindra|Marazzo|M4|1497|Manual|Diesel|17.3|11.56|8|https://www.cardekho.com/mahindra/marazzo
+74|Mahindra|Marazzo|M4 8Str|1497|Manual|Diesel|17.3|11.64|8|https://www.cardekho.com/mahindra/marazzo
+75|Mahindra|Marazzo|M6|1497|Manual|Diesel|17.3|13.08|8|https://www.cardekho.com/mahindra/marazzo
+76|Mahindra|Marazzo|M6 8Str|1497|Manual|Diesel|17.3|13.16|8|https://www.cardekho.com/mahindra/marazzo
+77|Mahindra|Marazzo|M8|1497|Manual|Diesel|17.3|14.68|8|https://www.cardekho.com/mahindra/marazzo
+78|Mahindra|Marazzo|M8 8Str|1497|Manual|Diesel|17.3|14.76|8|https://www.cardekho.com/mahindra/marazzo
+79|Mahindra|Thar|CRDe|2498|Manual|Diesel|16.55|9.59|6|https://www.cardekho.com/mahindra/thar
+80|Mahindra|Thar|CRDe ABS|2498|Manual|Diesel|16.55|9.74|6|https://www.cardekho.com/mahindra/thar
+81|Mahindra|Thar|700 CRDe ABS|2498|Manual|Diesel|16.55|9.99|6|https://www.cardekho.com/mahindra/thar
+82|Mahindra|TUV300|T4 Plus|1493|Manual|Diesel|18.49|8.54|7|https://www.cardekho.com/carmodels/Mahindra/Mahindra_TUV_300
+83|Mahindra|TUV300|T6 Plus|1493|Manual|Diesel|18.49|9.14|7|https://www.cardekho.com/carmodels/Mahindra/Mahindra_TUV_300
+84|Mahindra|TUV300|T8|1493|Manual|Diesel|18.49|9.76|7|https://www.cardekho.com/carmodels/Mahindra/Mahindra_TUV_300
+85|Mahindra|TUV300|T10|1493|Manual|Diesel|18.49|9.99|7|https://www.cardekho.com/carmodels/Mahindra/Mahindra_TUV_300
+86|Mahindra|TUV300|T10 Dual Tone|1493|Manual|Diesel|18.49|10.22|7|https://www.cardekho.com/carmodels/Mahindra/Mahindra_TUV_300
+87|Mahindra|TUV300|T10 OPt|1493|Manual|Diesel|18.49|10.31|7|https://www.cardekho.com/carmodels/Mahindra/Mahindra_TUV_300
+88|Mahindra|TUV300|T10 Opt Dual Tone|1493|Manual|Diesel|18.49|10.55|7|https://www.cardekho.com/carmodels/Mahindra/Mahindra_TUV_300
+89|Mahindra|KUV100 NXT|G80 K2|1198|Manual|Petrol|18.15|4.88|6|https://www.cardekho.com/mahindra/kuv-100
+90|Mahindra|KUV100 NXT|G80 K2 Plus|1198|Manual|Petrol|18.15|5.32|6|https://www.cardekho.com/mahindra/kuv-100
+91|Mahindra|KUV100 NXT|G80 K4 Plus 5Str|1198|Manual|Petrol|18.15|5.73|6|https://www.cardekho.com/mahindra/kuv-100
+92|Mahindra|KUV100 NXT|G80 K4 Plus|1198|Manual|Petrol|18.15|5.79|6|https://www.cardekho.com/mahindra/kuv-100
+93|Mahindra|KUV100 NXT|D75 K2|1198|Manual|Diesel|25.32|5.9|6|https://www.cardekho.com/mahindra/kuv-100
+94|Mahindra|KUV100 NXT|D75 K2 Plus|1198|Manual|Diesel|25.32|6.19|6|https://www.cardekho.com/mahindra/kuv-100
+95|Mahindra|KUV100 NXT|G80 K6 Plus|1198|Manual|Petrol|18.15|6.31|6|https://www.cardekho.com/mahindra/kuv-100
+96|Mahindra|KUV100 NXT|G80 K6 Plus 5Str|1198|Manual|Petrol|18.15|6.31|6|https://www.cardekho.com/mahindra/kuv-100
+97|Mahindra|KUV100 NXT|D75 K4 Plus 5Str|1198|Manual|Diesel|25.32|6.6|6|https://www.cardekho.com/mahindra/kuv-100
+98|Mahindra|KUV100 NXT|D75 K4 Plus|1198|Manual|Diesel|25.32|6.67|6|https://www.cardekho.com/mahindra/kuv-100
+99|Mahindra|KUV100 NXT|G80 K8 5Str|1198|Manual|Petrol|18.15|6.87|6|https://www.cardekho.com/mahindra/kuv-100
+100|Mahindra|KUV100 NXT|G80 K8|1198|Manual|Petrol|18.15|6.93|6|https://www.cardekho.com/mahindra/kuv-100
+101|Mahindra|KUV100 NXT|G80 K8 Dual Tone|1198|Manual|Petrol|18.15|7.01|6|https://www.cardekho.com/mahindra/kuv-100
+102|Mahindra|KUV100 NXT|D75 K6 Plus 5Str|1198|Manual|Diesel|25.32|7.48|6|https://www.cardekho.com/mahindra/kuv-100
+103|Mahindra|KUV100 NXT|D75 K6 Plus|1198|Manual|Diesel|25.32|7.54|6|https://www.cardekho.com/mahindra/kuv-100
+104|Mahindra|KUV100 NXT|K8 5Str|1198|Manual|Diesel|25.32|7.8|6|https://www.cardekho.com/mahindra/kuv-100
+105|Mahindra|KUV100 NXT|D75 K8|1198|Manual|Diesel|25.32|7.87|6|https://www.cardekho.com/mahindra/kuv-100
+106|Mahindra|KUV100 NXT|D75 K8 Dual Tone|1198|Manual|Diesel|25.32|7.94|6|https://www.cardekho.com/mahindra/kuv-100
+107|Mahindra|ALTURAS G4|4*2 AT|2157|Automatic|Diesel|12.35|27.7|7|https://www.cardekho.com/mahindra/alturas-g4
+108|Mahindra|ALTURAS G4|4*4 AT|2157|Automatic|Diesel|12.05|30.7|7|https://www.cardekho.com/mahindra/alturas-g4
+109|Mahindra|XYLO|D2 Maxx BSIV|2489|Manual|Diesel|14.95|9.17|8|https://www.cardekho.com/carmodels/Mahindra/Mahindra_Xylo
+110|Mahindra|XYLO|D2|2489|Manual|Diesel|14.95|9.38|8|https://www.cardekho.com/carmodels/Mahindra/Mahindra_Xylo
+111|Mahindra|XYLO|D4|2489|Manual|Diesel|14.95|9.84|8|https://www.cardekho.com/carmodels/Mahindra/Mahindra_Xylo
+112|Mahindra|XYLO|H4|2179|Manual|Diesel|14.02|10.07|8|https://www.cardekho.com/carmodels/Mahindra/Mahindra_Xylo
+113|Mahindra|XYLO|H4 ABS|2179|Manual|Diesel|14.02|10.47|8|https://www.cardekho.com/carmodels/Mahindra/Mahindra_Xylo
+114|Mahindra|XYLO|H8 ABS with Airbags|2179|Manual|Diesel|14.02|12|8|https://www.cardekho.com/carmodels/Mahindra/Mahindra_Xylo
+115|Mahindra|Verito|1.5 D2|1461|Manual|Diesel|21.03|7.6|5|https://www.cardekho.com/mahindra/verito
+116|Mahindra|Verito|1.5 D4|1461|Manual|Diesel|21.03|7.85|5|https://www.cardekho.com/mahindra/verito
+117|Mahindra|Verito|1.5 D6|1461|Manual|Diesel|21.03|8.57|5|https://www.cardekho.com/mahindra/verito
+118|Mahindra|Verito|1.5 Executive edition|1461|Manual|Diesel|21.03|8.99|5|https://www.cardekho.com/mahindra/verito
+119|Mahindra|TUV300 Plus|P4|2179|Manual|Diesel|18.49|9.92|9|https://www.cardekho.com/mahindra/tuv-300-plus
+120|Mahindra|TUV300 Plus|P6|2179|Manual|Diesel|18.49|10.29|9|https://www.cardekho.com/mahindra/tuv-300-plus
+121|Mahindra|TUV300 Plus|P8|2179|Manual|Diesel|18.49|11.42|9|https://www.cardekho.com/mahindra/tuv-300-plus
+122|Renault|Captur|1.5Petrol RXC|1498|Manual|Petrol|13.87|9.49|5|https://www.cardekho.com/renault/captur
+123|Renault|Captur|1.5Diesel RXE|1461|Manual|Diesel|20.37|10.49|5|https://www.cardekho.com/renault/captur
+124|Renault|Captur|Platine Dual Tone Petrol|1498|Manual|Petrol|13.87|11.99|5|https://www.cardekho.com/renault/captur
+125|Renault|Captur|Platine Dual Tone Diesel|1461|Manual|Diesel|20.37|12.99|5|https://www.cardekho.com/renault/captur
+126|Renault|Triber|RXE|999|Manual|Petrol|20|4.95|7|https://www.cardekho.com/renault/triber
+127|Renault|Triber|RXL|999|Manual|Petrol|20|5.49|7|https://www.cardekho.com/renault/triber
+128|Renault|Triber|RXT|999|Manual|Petrol|20|5.99|7|https://www.cardekho.com/renault/triber
+129|Renault|Triber|RXZ|999|Manual|Petrol|20|20.5|7|https://www.cardekho.com/renault/triber
+130|Renault|Triber|RXZ AMT|999|Manual|Petrol|20.5|7|7|https://www.cardekho.com/renault/triber
+131|Renault|Lodgy|85PS Std|1461|Manual|Diesel|21.04|8.63|8|https://www.cardekho.com/carmodels/Renault/Renault_Lodgy
+132|Renault|Lodgy|85PS RxE|1461|Manual|Diesel|21.04|9.64|8|https://www.cardekho.com/carmodels/Renault/Renault_Lodgy
+133|Renault|Lodgy|85PS RxE 7 Seater|1461|MAnual|Diesel|21.04|9.64|8|https://www.cardekho.com/carmodels/Renault/Renault_Lodgy
+134|Renault|Lodgy|Stepway 85PS RXL 8S|1461|Manual|Diesel|21.04|10.53|8|https://www.cardekho.com/carmodels/Renault/Renault_Lodgy
+135|Renault|Lodgy|Stepway 85PS RXZ 8S|1461|Manual|Diesel|21.04|11.3|8|https://www.cardekho.com/carmodels/Renault/Renault_Lodgy
+136|Renault|Lodgy|Stepway 110PS RXZ 8S|1461|Manual|Diesel|19.98|12.11|8|https://www.cardekho.com/carmodels/Renault/Renault_Lodgy
+137|Renault|Lodgy|Stepway 110PS RXZ 7S|1461|Manual|Diesel|19.98|12.11|8|https://www.cardekho.com/carmodels/Renault/Renault_Lodgy
+138|Renault|Duster|RXE|1498|Manual|Petrol|13.9|7.99|5|https://www.cardekho.com/renault/duster
+139|Renault|Duster|RXS|1498|Manual|Petrol|13.9|9.19|5|https://www.cardekho.com/renault/duster
+140|Renault|Duster|RXE 85PS|1461|Manual|Diesel|19.87|9.29|5|https://www.cardekho.com/renault/duster
+141|Renault|Duster|RXS 85PS|1461|Manual|Diesel|19.87|9.99|5|https://www.cardekho.com/renault/duster
+142|Renault|Duster|RXS Option CVT|1498|Automatic|Petrol|13.9|9.99|5|https://www.cardekho.com/renault/duster
+143|Renault|Duster|RXS 110PS|1461|Manual|Diesel|19.87|11.19|5|https://www.cardekho.com/renault/duster
+144|Renault|Duster|RXZ 110PS|1461|Manual|Diesel|19.87|12.09|5|https://www.cardekho.com/renault/duster
+145|Renault|Duster|RXS Option 110PS AWD|1461|Manual|Diesel|19.87|12.49|5|https://www.cardekho.com/renault/duster
+146|Renault|Duster|RXZ 110PS AMT|1461|Automatic|Diesel|19.87|12.49|5|https://www.cardekho.com/renault/duster
+147|Renault|KWID|STD|799|Manual|Petrol|25.17|2.83|5|https://www.cardekho.com/carmodels/Renault/Renault_KWID
+148|Renault|KWID|RXE|799|Manual|Petrol|25.17|3.53|5|https://www.cardekho.com/carmodels/Renault/Renault_KWID
+149|Renault|KWID|RXL|799|Manual|Petrol|25.17|3.83|5|https://www.cardekho.com/carmodels/Renault/Renault_KWID
+150|Renault|KWID|RXT|799|Manual|Petrol|25.17|4.13|5|https://www.cardekho.com/carmodels/Renault/Renault_KWID
+151|Renault|KWID|1.0 RXT|999|Manual|Petrol|23.01|4.33|5|https://www.cardekho.com/carmodels/Renault/Renault_KWID
+152|Renault|KWID|1.0 RXT Opt|999|Manual|Petrol|23.01|4.4|5|https://www.cardekho.com/carmodels/Renault/Renault_KWID
+153|Renault|KWID|Climber 1.0 MT|999|Manual|Petrol|23.01|4.54|5|https://www.cardekho.com/carmodels/Renault/Renault_KWID
+154|Renault|KWID|Climber 1.0 MT Opt|999|Manual|Petrol|23.01|4.62|5|https://www.cardekho.com/carmodels/Renault/Renault_KWID
+155|Renault|KWID|1.0 RXT AMT|999|Automatic|Petrol|24.04|4.63|5|https://www.cardekho.com/carmodels/Renault/Renault_KWID
+156|Renault|KWID|1.0 RXT AMT Opt|999|Automatic|Petrol|24.04|4.7|5|https://www.cardekho.com/carmodels/Renault/Renault_KWID
+157|Renault|KWID|Climber 1.0 AMT|999|Automatic|Petrol|24.04|4.84|5|https://www.cardekho.com/carmodels/Renault/Renault_KWID
+158|Renault|KWID|Climber 1.0 AMT Opt|999|Automatic|Petrol|24.04|4.92|5|https://www.cardekho.com/carmodels/Renault/Renault_KWID
+159|Ford|ECOSPORT|Ambiente 1.5L Ti-Vct|1497|Manual|Petrol|17|7.81|5|https://www.cardekho.com/carmodels/Ford/Ford_Ecosport
+160|Ford|ECOSPORT|Ambiente 1.5L TDCi|1498|Manual|Diesel|23|8.31|5|https://www.cardekho.com/carmodels/Ford/Ford_Ecosport
+161|Ford|ECOSPORT|Trend 1.5L Ti-VCT|1497|Manual|Petrol|17|8.61|5|https://www.cardekho.com/carmodels/Ford/Ford_Ecosport
+162|Ford|ECOSPORT|Trend 1.5L TDCi|1498|Manual|Diesel|23|9.11|5|https://www.cardekho.com/carmodels/Ford/Ford_Ecosport
+163|Ford|ECOSPORT|Titanium 1.5L Ti-VCT|1497|Manual|Petrol|17|9.4|5|https://www.cardekho.com/carmodels/Ford/Ford_Ecosport
+164|Ford|ECOSPORT|Titanium 1.5L TDCi|1498|Manual|Diesel|23|9.9|5|https://www.cardekho.com/carmodels/Ford/Ford_Ecosport
+165|Ford|ECOSPORT|Titanium+1.5L Ti-VCT|1497|Manual|Petrol|16.3|10.3|5|https://www.cardekho.com/carmodels/Ford/Ford_Ecosport
+166|Ford|ECOSPORT|Thunder Edtion Petrol|1497|Manual|Petrol|17|10.3|5|https://www.cardekho.com/carmodels/Ford/Ford_Ecosport
+167|Ford|ECOSPORT|Thunder Edtion Diesel|1498|Manual|Diesel|23|10.8|5|https://www.cardekho.com/carmodels/Ford/Ford_Ecosport
+168|Ford|ECOSPORT|Titanium+1.5L TDCi|1498|Manual|Diesel|23|10.8|5|https://www.cardekho.com/carmodels/Ford/Ford_Ecosport
+169|Ford|ECOSPORT|S Petrol|999|Manual|Petrol|18.1|10.85|5|https://www.cardekho.com/carmodels/Ford/Ford_Ecosport
+170|Ford|ECOSPORT|Titanium+1.5L Ti-VCT|1497|Automatic|Petrol|14.8|11.2|5|https://www.cardekho.com/carmodels/Ford/Ford_Ecosport
+171|Ford|ECOSPORT|S Diesel|1498|Manual|Diesel|23|11.35|5|https://www.cardekho.com/carmodels/Ford/Ford_Ecosport
+172|Ford|FIGO|Ambiente 1.2 Ti-VCT|1194|Manual|Petrol|20.4|5.23|5|https://www.cardekho.com/carmodels/Ford/Ford_Figo
+173|Ford|FIGO|Titanium 1.2 Ti-VCT MT|1194|Manual|Petrol|20.4|6|5|https://www.cardekho.com/carmodels/Ford/Ford_Figo
+174|Ford|FIGO|Ambiente 1.5 TDCi|1498|Manual|Diesel|25.5|6.13|5|https://www.cardekho.com/carmodels/Ford/Ford_Figo
+175|Ford|FIGO|Titanium Blu 1.2 Ti-VCT|1194|Manual|Petrol|20.4|6.65|5|https://www.cardekho.com/carmodels/Ford/Ford_Figo
+176|Ford|ENDEAVOUR|Titanium 2.2 4*2 MT|2198|Manual|Diesel|14.2|28.2|7|https://www.cardekho.com/carmodels/Ford/Ford_Endeavour
+177|Ford|ENDEAVOUR|Titanium Plus 2.2 4*2 AT|2198|Automatic|Diesel|12.62|31.33|7|https://www.cardekho.com/carmodels/Ford/Ford_Endeavour
+178|Ford|ENDEAVOUR|Titanium Plus 3.2 4*4 AT|3198|Automatic|Diesel|10.6|33.7|7|https://www.cardekho.com/carmodels/Ford/Ford_Endeavour
+179|Ford|ASPIRE|Ambiente 1.2 Ti-VCT|1194|Manual|Petrol|20.4|5.89|5|https://www.cardekho.com/ford/figo-aspire
+180|Ford|ASPIRE|Trend 1.2 Ti-VCT|1194|Manual|Petrol|20.4|6.54|5|https://www.cardekho.com/ford/figo-aspire
+181|Ford|ASPIRE|Trend 1.2 Plus Ti-VCT|1194|Manual|Petrol|20.4|6.88|5|https://www.cardekho.com/ford/figo-aspire
+182|Ford|ASPIRE|Ambiente 1.5 TDCi|1498|Manual|Diesel|26.1|6.9|5|https://www.cardekho.com/ford/figo-aspire
+183|Ford|ASPIRE|Trend 1.5 TDCi|1498|Manual|Diesel|26.1|7.28|5|https://www.cardekho.com/ford/figo-aspire
+184|Ford|ASPIRE|Titanium 1.2 Ti-VCT|1194|Manual|Petrol|19.4|7.28|5|https://www.cardekho.com/ford/figo-aspire
+185|Ford|ASPIRE|Titanium Blu 1.2 Ti-VCT|1194|Manual|Petrol|20.4|7.52|5|https://www.cardekho.com/ford/figo-aspire
+186|Ford|ASPIRE|Trend Plus 1.5 TDCi|1498|Manual|Diesel|26.1|7.68|5|https://www.cardekho.com/ford/figo-aspire
+187|Ford|ASPIRE|Titanium Plus 1.2 Ti-VCT|1194|Manual|Petrol|19.4|7.73|5|https://www.cardekho.com/ford/figo-aspire
+188|Ford|ASPIRE|Titanium 1.5 TDCi|1498|Manual|Diesel|26.1|8.08|5|https://www.cardekho.com/ford/figo-aspire
+189|Ford|ASPIRE|Titanium Blu 1.5 TDCi|1498|Manual|Diesel|26.1|8.33|5|https://www.cardekho.com/ford/figo-aspire
+190|Ford|ASPIRE|Titanium Plus 1.5 TDCi|1498|Manual|Diesel|26.1|8.53|5|https://www.cardekho.com/ford/figo-aspire
+191|Ford|ASPIRE|Titanium 1.5 Ti-VCT AT|1497|Automatic|Petrol|16.3|9.01|5|https://www.cardekho.com/ford/figo-aspire
+192|Ford|FREESTYLE|Ambiente 1.2 Ti-VCT|1194|Manual|Petrol|19|5.82|5|https://www.cardekho.com/ford/freestyle
+193|Ford|FREESTYLE|Ambiente 1.5 TDCi|1498|Manual|Diesel|24.4|6.67|5|https://www.cardekho.com/ford/freestyle
+194|Ford|FREESTYLE|Trend Plus 1.2 Ti-VCT|1194|Manual|Petrol|19|6.72|5|https://www.cardekho.com/ford/freestyle
+195|Ford|FREESTYLE|Titanium 1.2 Ti-VCT|1194|Manual|Petrol|19|7.12|5|https://www.cardekho.com/ford/freestyle
+196|Ford|FREESTYLE|Trend Plus 1.5 TDCi|1498|Manual|Diesel|24.4|7.36|5|https://www.cardekho.com/ford/freestyle
+197|Ford|FREESTYLE|Titanium Plus 1.2 Ti-VCT|1194|Manual|Petrol|19|7.47|5|https://www.cardekho.com/ford/freestyle
+198|Ford|FREESTYLE|Titanium 1.5 TDCi|1498|Manual|Diesel|24.4|7.81|5|https://www.cardekho.com/ford/freestyle
+199|Ford|FREESTYLE|Titanium Plus 1.5 TDCi|1498|Manual|Diesel|24.4|8.27|5|https://www.cardekho.com/ford/freestyle
+200|Mahindra|Scorpio|S3|2523|Manual|Diesel|15.4|9.99|7|https://www.cardekho.com/mahindra/scorpio
+201|BMW|X1|sDrive20d Expedition|1995|Automatic|Diesel|20.68|35.2|5|https://www.cardekho.com/carmodels/BMW/BMW_X1
+202|BMW|X1|sDrive20i xLine|1998|Automatic|Petrol|15.71|38.3|5|https://www.cardekho.com/carmodels/BMW/BMW_X1
+203|BMW|X1|sDrive 20d xLine|1995|Automatic|Diesel|20.68|39.3|5|https://www.cardekho.com/carmodels/BMW/BMW_X1
+204|BMW|X1|M Sport sDrive 20d|1995|Automatic|Diesel|17.05|42.4|5|https://www.cardekho.com/carmodels/BMW/BMW_X1
+205|BMW|X1|xDrive 20d M Sport|1995|Automatic|Diesel|20.68|45.7|5|https://www.cardekho.com/carmodels/BMW/BMW_X1
+206|BMW|Z4|sDrive 20i|1998|Automatic|Petrol|14.37|64.9|4|https://www.cardekho.com/bmw/z4
+207|BMW|Z4|M40i|2998|Automatic|Petrol|14.37|78.9|4|https://www.cardekho.com/bmw/z4
+208|BMW|X7|xDrive 40i|2998|Automatic|Petrol|10.54|98.9|7|https://www.cardekho.com/bmw/x7
+209|BMW|X7|xDrive30d DPE Signature|2993|Automatic|Diesel|13.38|98.9|7|https://www.cardekho.com/bmw/x7
+210|BMW|X3|xDrive 20d xLine|1995|Automatic|Diesel|18.56|56|5|https://www.cardekho.com/carmodels/BMW/BMW_X3
+211|BMW|X3|xDrive 20d Luxury Line|1995|Automatic|Diesel|18.56|58.8|5|https://www.cardekho.com/carmodels/BMW/BMW_X3
+212|BMW|X3|xDrive 30i Luxury Line|1998|Automatic|Petrol|13.32|58.8|5|https://www.cardekho.com/carmodels/BMW/BMW_X3
+213|BMW|5 Series|520d Luxury Line|1995|Automatic|Diesel|22.48|58.7|5|https://www.cardekho.com/carmodels/BMW/BMW_5_Series
+214|BMW|5 Series|530i M Sport|1998|Automatic|Petrol|15.01|59.2|5|https://www.cardekho.com/carmodels/BMW/BMW_5_Series
+215|BMW|5 Series|530d M Sport|2993|Automatic|Diesel|18.59|66.2|5|https://www.cardekho.com/carmodels/BMW/BMW_5_Series
+216|BMW|X6|xDrive 35i M Sport|2979|Automatic|Petrol|10.88|92.2|5|https://www.cardekho.com/carmodels/BMW/BMW_X6
+217|BMW|6 Series|GT 620d Luxury Line|1995|Automatic|Diesel|17.09|63.9|4|https://www.cardekho.com/carmodels/BMW/BMW_6_Series
+218|BMW|6 Series|GT 630i Luxury Line|1995|Automatic|Petrol|14.28|63.9|4|https://www.cardekho.com/carmodels/BMW/BMW_6_Series
+219|BMW|6 Series|GT 630d Luxury Line|2993|Automatic|Diesel|17.09|68.9|4|https://www.cardekho.com/carmodels/BMW/BMW_6_Series
+220|BMW|6 Series|GT 630d M Sport|2993|Automatic|Diesel|17.09|73.9|4|https://www.cardekho.com/carmodels/BMW/BMW_6_Series
+221|BMW|M2|Competition|2979|Automatic|Petrol|10.63|81.8|4|https://www.cardekho.com/bmw/m2
+222|BMW|M Series|M4|2979|Automatic|Petrol|10.99|135|5|https://www.cardekho.com/carmodels/BMW/BMW_M_Series
+223|BMW|M Series|M5|4395|Automatic|Petrol|9.52|143|5|https://www.cardekho.com/carmodels/BMW/BMW_M_Series
+224|BMW|X5|xDrive 30d Sport|2993|Automatic|Diesel|13.38|72.9|5|https://www.cardekho.com/carmodels/BMW/BMW_X5
+225|BMW|X5|xDive 30d xLine|2993|Automatic|Diesel|13.38|82.4|5|https://www.cardekho.com/carmodels/BMW/BMW_X5
+226|BMW|X5|xDrive 40i M Sport|2998|Automatic|Petrol|11.24|82.4|5|https://www.cardekho.com/carmodels/BMW/BMW_X5
+227|BMW|3 Series|320d Sport|1995|Automatic|Diesel|19.62|41.4|5|https://www.cardekho.com/carmodels/BMW/BMW_3_Series
+228|BMW|3 Series|320d Luxury Line|1995|Automatic|Diesel|19.62|46.9|5|https://www.cardekho.com/carmodels/BMW/BMW_3_Series
+229|BMW|3 Series|330i M Sport|1998|Automatic|Petrol|16.13|47.9|5|https://www.cardekho.com/carmodels/BMW/BMW_3_Series
+230|BMW|3 Series GT|Sport|1995|Automatic|Diesel|21.76|47.7|5|https://www.cardekho.com/carmodels/BMW/BMW_3_Series
+231|BMW|3 Series GT|Luxury Line|1995|Automatic|Diesel|21.76|50.7|5|https://www.cardekho.com/carmodels/BMW/BMW_3_Series
+232|BMW|3 Series GT|M Sport Petrol|1998|Automatic|Petrol|15.34|50.7|5|https://www.cardekho.com/carmodels/BMW/BMW_3_Series
+233|Jeep|Compass|1.4 Sport|1368|Manual|Petrol|16|15.6|5|https://www.cardekho.com/jeep/compass
+234|Jeep|Compass|1.4 Sport Plus|1368|Manual|Petrol|16|15.99|5|https://www.cardekho.com/jeep/compass
+235|Jeep|Compass|2.0 Sport|1956|Manual|Diesel|17.1|16.61|5|https://www.cardekho.com/jeep/compass
+236|Jeep|Compass|2.0 Sport Plus|1956|Manual|Diesel|17.1|16.99|5|https://www.cardekho.com/jeep/compass
+237|Jeep|Compass|2.0 Bedrock|1956|Manual|Diesel|17.1|17.53|5|https://www.cardekho.com/jeep/compass
+238|Jeep|Compass|2.0 Longitude|1956|Manual|Diesel|17.1|18.03|5|https://www.cardekho.com/jeep/compass
+239|Jeep|Compass|2.0 Longitude Option|1956|Manual|Diesel|17.1|18.88|5|https://www.cardekho.com/jeep/compass
+240|Jeep|Compass|1.4 Longitude Option|1368|Automatic|Petrol|16|19|5|https://www.cardekho.com/jeep/compass
+241|Jeep|Compass|2.0 Limited|1956|Manual|Diesel|17.1|19.73|5|https://www.cardekho.com/jeep/compass
+242|Jeep|Compass|1.4 Limited|1368|Automatic|Petrol|16|19.96|5|https://www.cardekho.com/jeep/compass
+243|Jeep|Compass|2.0 Limited Option|1956|Manual|Diesel|17.1|20.22|5|https://www.cardekho.com/jeep/compass
+244|Jeep|Compass|2.0 Limited Option Black|1956|Manual|Diesel|17.1|20.36|5|https://www.cardekho.com/jeep/compass
+245|Jeep|Compass|1.4 Limited Option|1368|Manual|Diesel|16|20.55|5|https://www.cardekho.com/jeep/compass
+246|Jeep|Compass|1.4 Limited Option Black|1368|Automatic|Petrol|16|20.7|5|https://www.cardekho.com/jeep/compass
+247|Jeep|Compass|2.0 :imited Plus|1956|Manual|Diesel|17.1|21.33|5|https://www.cardekho.com/jeep/compass
+248|Jeep|Compass|2.0 Limited 4*4|1956|Manual|Diesel|16.3|21.51|5|https://www.cardekho.com/jeep/compass
+249|Jeep|Compass|1.4 Limited Plus|1368|Manual|Petrol|16|21.67|5|https://www.cardekho.com/jeep/compass
+250|Jeep|Compass|2.0 Limited Option 4*4|1956|Manual|Diesel|16.3|21.99|5|https://www.cardekho.com/jeep/compass
+251|Jeep|Compass|2.0 Limited Option 4*4 black|1956|Manual|Diesel|16.3|22.14|5|https://www.cardekho.com/jeep/compass
+252|Jeep|Compass|2.0 Limited Plus 4*4|1956|Manual|Diesel|16.3|23.11|5|https://www.cardekho.com/jeep/compass
+253|Jeep|Grand Cherokee|Limited 4*4|2998|Automatic|Diesel|12.8|78.88|5|https://www.cardekho.com/jeep/grand-cherokee
+254|Jeep|Grand Cherokee|Summit Petrol|3604|Automatic|Petrol|12.8|78.88|5|https://www.cardekho.com/jeep/grand-cherokee
+255|Jeep|Grand Cherokee|Summit 4*4|2998|Automatic|Diesel|12.8|89.31|5|https://www.cardekho.com/jeep/grand-cherokee
+256|Jeep|Grand Cherokee|SRT 4*4|2998|Automatic|Petrol|5.5|114|5|https://www.cardekho.com/jeep/grand-cherokee
+257|Audi|Q3|30 TFSI Premium FWD|1395|Automatic|Petrol|16.9|34.75|5|https://www.cardekho.com/carmodels/Audi/Audi_Q3
+258|Audi|Q3|30 TDI Premium FWD|1968|Automatic|Diesel|18.51|36.55|5|https://www.cardekho.com/carmodels/Audi/Audi_Q3
+259|Audi|Q3|35 TDI Quattro Premium Plus|1968|Automatic|Diesel|15.17|39.7|5|https://www.cardekho.com/carmodels/Audi/Audi_Q3
+260|Audi|Q3|Design Edition 35 TDI quattro|1968|Automatic|Diesel|15.17|40.76|5|https://www.cardekho.com/carmodels/Audi/Audi_Q3
+261|Audi|Q3|35 TDI Quattro Technology|1968|Automatic|Diesel|15.17|43.61|5|https://www.cardekho.com/carmodels/Audi/Audi_Q3
+262|Audi|A3|35 TFSI Premium Plus|1395|Automatic|Petrol|19.2|28.99|5|https://www.cardekho.com/carmodels/Audi/Audi_A3
+263|Audi|A3|35 TDI Premium Plus|1968|Automatic|Diesel|20.38|29.99|5|https://www.cardekho.com/carmodels/Audi/Audi_A3
+264|Audi|A3|35 TFSI Technology|1395|Automatic|Petrol|19.2|30.99|5|https://www.cardekho.com/carmodels/Audi/Audi_A3
+265|Audi|A3|35 TDI Technology|1968|Automatic|Diesel|20.38|31.99|5|https://www.cardekho.com/carmodels/Audi/Audi_A3
+266|Audi|Q7|45 TFSI Premium Plus|2967|Automatic|Petrol|13.55|73.82|7|https://www.cardekho.com/audi/q7
+267|Audi|Q7|45 TDI Quattro Premium Plus|2967|Automatic|Diesel|14.75|78.01|7|https://www.cardekho.com/audi/q7
+268|Audi|Q7|45 TFSI Technology|2967|Automatic|Petrol|13.55|81.1|7|https://www.cardekho.com/audi/q7
+269|Audi|Q7|45 TFSI Black Edition|1984|Automatic|Petrol|13.55|82.15|7|https://www.cardekho.com/audi/q7
+270|Audi|Q7|45 TDI Quattro Technology|2967|Automatic|Diesel|14.75|85.28|7|https://www.cardekho.com/audi/q7
+271|Audi|Q7|45 TDI Black Edition|2967|Automatic|Diesel|14.75|86.3|7|https://www.cardekho.com/audi/q7
+272|Audi|A4|30 TFSI Premium Plus|1395|Automatic|Petrol|17.84|41.49|5|https://www.cardekho.com/carmodels/Audi/Audi_A4
+273|Audi|A4|35 TDI Premium Plus|1968|Automatic|Diesel|18.25|43.39|5|https://www.cardekho.com/carmodels/Audi/Audi_A4
+274|Audi|A4|30 TFSI Technology|1395|Automatic|Petrol|17.84|45.07|5|https://www.cardekho.com/carmodels/Audi/Audi_A4
+275|Audi|A4|35 TDI Technology|1968|Automatic|Diesel|18.25|46.96|5|https://www.cardekho.com/carmodels/Audi/Audi_A4
+276|Audi|A6|35 TFSI Matrix|1798|Automatic|Petrol|15.26|50.01|5|https://www.cardekho.com/carmodels/Audi/Audi_A6
+277|Audi|A6|35 TDI Matrix|1968|Automatic|Diesel|18.53|51.01|5|https://www.cardekho.com/carmodels/Audi/Audi_A6
+278|Maruti|Alto 800|STD|796|Manual|Petrol|24.7|2.93|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Alto_800
+279|Maruti|Alto 800|LXI|796|Manual|Petrol|24.7|3.6|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Alto_800
+280|Maruti|Alto 800|LXI Opt|796|Manual|Petrol|24.7|3.64|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Alto_800
+281|Maruti|Alto 800|VXI|796|Manual|Petrol|24.7|3.81|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Alto_800
+282|Maruti|Alto 800|LXI CNG|796|Manual|CNG|33.0|4.2|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Alto_800
+283|Maruti|Alto 800|LXI Opt CNG|796|Manual|CNG|33.0|4.24|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Alto_800
+284|Maruti|Celerio|LDi|998|Manual|Petrol|23.1|4.41|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Celerio
+285|Maruti|Celerio|LXI Optional MT|998|Manual|Petrol|23.1|4.49|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Celerio
+286|Maruti|Celerio|VXI MT|998|Manual|Petrol|23.1|4.8|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Celerio
+287|Maruti|Celerio|VXI Optional MT|998|Manual|Petrol|23.1|4.87|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Celerio
+288|Maruti|Celerio|ZXI MT|998|Manual|Petrol|23.1|5.05|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Celerio
+289|Maruti|Celerio|AMT VXI|998|Automatic|Petrol|23.1|5.23|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Celerio
+290|Maruti|Celerio|AMT VXI Optional|998|Automatic|Petrol|23.1|5.3|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Celerio
+291|Maruti|Celerio|CNG VXI MT|998|Manual|CNG|31.79|5.45|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Celerio
+292|Maruti|Celerio|ZXI Optional MT|998|Manual|Petrol|23.1|5.46|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Celerio
+293|Maruti|Celerio|AMT ZXI|998|Automatic|Petrol|23.1|5.48|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Celerio
+294|Maruti|Celerio|CNG VXI Optional MT|998|Manual|CNG|31.79|5.53|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Celerio
+295|Maruti|Celerio|AMT ZXI Optional|998|Automatic|Petrol|23.1|5.58|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Celerio
+296|Maruti|Alto K10|LX|998|Manual|Petrol|23.95|3.75|5|https://www.cardekho.com/maruti/alto-k10
+297|Maruti|Alto K10|LXI|998|Manual|Petrol|23.95|3.92|5|https://www.cardekho.com/maruti/alto-k10
+298|Maruti|Alto K10|VXI|998|Manual|Petrol|23.95|4.09|5|https://www.cardekho.com/maruti/alto-k10
+299|Maruti|Alto K10|VXI Optional|998|Manual|Petrol|23.95|4.22|5|https://www.cardekho.com/maruti/alto-k10
+300|Maruti|Alto K10|VXI AGS|998|Automatic|Petrol|23.95|4.53|5|https://www.cardekho.com/maruti/alto-k10
+301|Maruti|Alto K10|LXI CNG|998|Manual|CNG|32.26|4.54|5|https://www.cardekho.com/maruti/alto-k10
+302|Maruti|S-Cross|Sigma DDiS 200 SH|1248|Manual|Diesel|25.1|8.85|5|https://www.cardekho.com/carmodels/Maruti/Maruti_SX4_S_Cross
+303|Maruti|S-Cross|Delta DDiS 200 SH|1248|Manual|Diesel|25.1|9.97|5|https://www.cardekho.com/carmodels/Maruti/Maruti_SX4_S_Cross
+304|Maruti|S-Cross|Zeta DDiS 200 SH|1248|Manual|Diesel|25.1|10.48|5|https://www.cardekho.com/carmodels/Maruti/Maruti_SX4_S_Cross
+305|Maruti|S-Cross|Alpha DDiS 200 SH|1248|Manual|Diesel|25.1|11.48|5|https://www.cardekho.com/carmodels/Maruti/Maruti_SX4_S_Cross
+306|Maruti|Ignis|Sigma|1197|Manual|Petrol|20.89|4.87|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Ignis
+307|Maruti|Ignis|Delta|1197|Manual|Petrol|20.89|5.48|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Ignis
+308|Maruti|Ignis|Zeta|1197|Manual|Petrol|20.89|5.9|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Ignis
+309|Maruti|Ignis|AMT Delta|1197|Automatic|Petrol|20.89|5.95|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Ignis
+310|Maruti|Ignis|AMT Zeta|1197|Automatic|Petrol|20.89|6.37|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Ignis
+311|Maruti|Ignis|Alpha|1197|Manual|Petrol|20.89|6.75|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Ignis
+312|Maruti|Ignis|AMT Alpha|1197|Automatic|Petrol|20.89|7.22|5|https://www.cardekho.com/carmodels/Maruti/Maruti_Ignis
+313|Honda|City|i-VTEC SV|1497|Manual|Petrol|17.4|9.81|5|https://www.cardekho.com/carmodels/Honda/Honda_City
+314|Honda|City|i-VTEC V|1497|Manual|Petrol|17.4|10.5|5|https://www.cardekho.com/carmodels/Honda/Honda_City
+315|Honda|City|i-DTEC SV|1498|Manual|Diesel|25.6|11.11|5|https://www.cardekho.com/carmodels/Honda/Honda_City
+316|Honda|City|i-VTEC VX|1497|Manual|Petrol|17.4|11.67|5|https://www.cardekho.com/carmodels/Honda/Honda_City
+317|Honda|City|i-DTEC V|1498|Manual|Diesel|25.6|11.86|5|https://www.cardekho.com/carmodels/Honda/Honda_City
+318|Honda|City|i-VTEC CVT V|1497|Automatic|Petrol|18.0|11.86|5|https://www.cardekho.com/carmodels/Honda/Honda_City
+319|Honda|City|i-VTEC ZX|1497|Manual|Petrol|17.14|12.86|5|https://www.cardekho.com/carmodels/Honda/Honda_City
+320|Honda|City|i-DTEC VX|1498|Manual|Diesel|25.6|12.97|5|https://www.cardekho.com/carmodels/Honda/Honda_City
+321|Honda|City|i-VTEC CVT VX|1497|Automatic|Petrol|18.0|12.97|5|https://www.cardekho.com/carmodels/Honda/Honda_City
+322|Honda|City|i-DTEC ZX|1498|Manual|Diesel|25.6|14.16|5|https://www.cardekho.com/carmodels/Honda/Honda_City
+323|Honda|City|i-VTEC CVT ZX|1497|Automatic|Petrol|18.0|14.16|5|https://www.cardekho.com/carmodels/Honda/Honda_City
+324|Honda|Amaze|E Petrol|1199|Manual|Petrol|19.5|5.93|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+325|Honda|Amaze|S Petrol|1199|Manual|Petrol|19.5|6.73|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+326|Honda|Amaze|E Diesel|1498|Manual|Diesel|27.4|7.05|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+327|Honda|Amaze|V Petrol|1199|Manual|Petrol|19.5|7.33|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+328|Honda|Amaze|S CVT Petrol|1199|Automatic|Petrol|19.0|7.63|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+329|Honda|Amaze|VX Petrol|1199|Manual|Petrol|19.5|7.81|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+330|Honda|Amaze|S Diesel|1498|Manual|Diesel|27.4|7.85|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+331|Honda|Amaze|Exclusive Petrol|1199|Manual|Petrol|19.5|7.94|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+332|Honda|Amaze|Ace Edition Petrol|1199|Manual|Petrol|19.5|7.94|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+333|Honda|Amaze|V CVT Petrol|1199|Automatic|Petrol|19.0|8.23|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+334|Honda|Amaze|V Diesel|1498|Manual|Diesel|27.4|8.45|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+335|Honda|Amaze|VX CVT Petrol|1199|Automatic|Petrol|19.0|8.64|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+336|Honda|Amaze|S CVT Diesel|1498|Automatic|Diesel|23.8|8.65|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+337|Honda|Amaze|Ace Edition CVT Petrol|1199|Automatic|Petrol|19.0|8.77|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+338|Honda|Amaze|VX Diesel|1498|Manual|Diesel|27.4|8.93|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+339|Honda|Amaze|Exclusive Diesel|1498|Manual|Diesel|27.4|9.06|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+340|Honda|Amaze|Ace Edition Diesel|1498|Manual|Diesel|27.4|9.06|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+341|Honda|Amaze|V CVT Diesel|1498|Automatic|Diesel|23.8|9.25|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+342|Honda|Amaze|VX CVT Diesel|1498|Automatic|Diesel|23.8|9.66|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+343|Honda|Amaze|Ace Edition CVT Diesel|1498|Automatic|Diesel|23.8|9.79|5|https://www.cardekho.com/carmodels/Honda/Honda_Amaze
+344|Honda|Civic|V1|799|Automatic|Petrol|16.5|17.93|5|https://www.cardekho.com/honda/civic
+345|Honda|Civic|VX|1799|Automatic|Petrol|16.5|19.44|5|https://www.cardekho.com/honda/civic
+346|Honda|Civic|VX Diesel|1597|Manual|Diesel|26.8|20.54|5|https://www.cardekho.com/honda/civic
+347|Honda|Civic|ZX|1799|Automatic|Petrol|16.5|21.24|5|https://www.cardekho.com/honda/civic
+348|Honda|Civic|ZX Diesel|1597|Manual|Diesel|26.8|22.34|5|https://www.cardekho.com/honda/civic
+349|Honda|WRV|WR-V Edge Edition i-VTEC S|1199|Manual|Petrol|17.5|8.16|5|https://www.cardekho.com/honda/wr-v
+350|Honda|WRV|i-VTEC S|1199|Manual|Petrol|17.5|8.23|5|https://www.cardekho.com/honda/wr-v
+351|Honda|WRV|i-VTEC VX|1199|Manual|Petrol|17.5|9.33|5|https://www.cardekho.com/honda/wr-v
+352|Honda|WRV|i-DTEC S|1498|Manual|Diesel|25.5|9.33|5|https://www.cardekho.com/honda/wr-v
+353|Honda|WRV|WR-V Exclusive Petrol|1199|Manual|Petrol|17.5|9.43|5|https://www.cardekho.com/honda/wr-v
+354|Honda|WRV|WR-V i-DTEC V|1498|Manual|Diesel|25.5|9.95|5|https://www.cardekho.com/honda/wr-v
+355|Honda|WRV|i-DTEC VX|1498|Manual|Diesel|25.5|10.35|5|https://www.cardekho.com/honda/wr-v
+356|Honda|WRV|Exclusive Diesel|1498|Manual|Diesel|25.5|10.48|5|https://www.cardekho.com/honda/wr-v
+357|Datsun|redi-GO|D|799|Manual|Petrol|22.7|2.82|5|https://www.cardekho.com/overview/Datsun_RediGO/Datsun_RediGO_D.htm
+358|Bajaj|Qute|RE60|217|Manual|Petrol|35.0|2.48|4|https://www.cardekho.com/bajaj/re60
